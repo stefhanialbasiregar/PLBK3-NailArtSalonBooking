@@ -1,6 +1,6 @@
 # PLBK3-NailArtSalonBooking
 
-<h1 align="center"><img width="25%" height="auto" src="https://media.tenor.com/F5QmtaDjiF4AAAAC/90s-anime.gif"/></h1>
+<h1 align="center"><img width="25%" height="auto" src="https://media.tenor.com/6DodrOvXSxMAAAAi/nail-polish-polish-nails.gif"/></h1>
 
 Sistem nail appointment adalah sistem reservasi atau pemesanan layanan perawatan kuku di salon atau tempat perawatan kecantikan tertentu. Sistem ini memungkinkan 
 pelanggan untuk membuat janji dengan para ahli perawatan kuku untuk mendapatkan layanan sesuai keinginan mereka pada waktu yang telah ditentukan.
